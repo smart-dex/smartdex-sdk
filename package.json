@@ -1,14 +1,14 @@
 {
-  "name": "smart-dex-sdk",
+  "name": "@smart_dex/smart-dex-sdk",
   "license": "MIT",
-  "version": "0.0.0-2",
+  "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of Smart DEX.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "",
+  "repository": "https://github.com/smart-dex/smartdex-sdk",
   "keywords": [
     "binance smart chain",
     "ethereum"
